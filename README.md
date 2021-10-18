@@ -1,4 +1,4 @@
-[Hux Blog](https://huangxuan.me)
+[Kyung Blog](https://kuokyung.github.io)
 ================================
 
 > I never expect this becomes popular.
